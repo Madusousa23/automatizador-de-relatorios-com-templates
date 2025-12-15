@@ -1,0 +1,13 @@
+RELATÓRIO DE INCIDENTE
+
+Data: 15/12/2025
+Responsável: Maria
+Setor: TI
+
+Descrição do incidente:
+Quebra de site
+
+Ação tomada:
+Suporte de TI
+
+Status: Em andamento

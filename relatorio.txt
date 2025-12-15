@@ -1,13 +1,11 @@
-RELATÓRIO DE INCIDENTE
+RELATÓRIO DE ATENDIMENTO
 
 Data: 15/12/2025
-Responsável: Maria
-Setor: TI
+Cliente: teste
+Atendente: teste
 
-Descrição do incidente:
-Quebra de site
+Descrição do atendimento:
+teste
 
-Ação tomada:
-Suporte de TI
-
-Status: Em andamento
+Resultado:
+teste
